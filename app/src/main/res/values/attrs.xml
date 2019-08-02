@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="CusHeartView">
+      <!---点的颜色-->
+      <attr name="cusHeartPointColor" format="color"/>
+      <!--连线的颜色-->
+      <attr name="cusLinColor" format="color"/>
+      <!--点的半径-->
+      <attr name="circleRadius" format="dimension"/>
+      
+      
+      
+      
+      
+  </declare-styleable>  
+    
+    
+    
+</resources>
